@@ -1,0 +1,46 @@
+.contain {
+  height: 400px;
+  background-color: rgb(198, 246, 127);
+  justify-content: center;
+}
+
+input[type=text] {
+  padding: 10px;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+  display: inline-block;
+  margin-right: 15px;
+  font-size: 15px;
+}
+
+.discon {
+  background-color: chartreuse;
+  padding: 20px;
+  margin: 180px 10px 5px 20px;
+  border: 2px;
+}
+
+.btn {
+  border-radius: 10px;
+  font-size: 15px;
+  padding: 10px;
+  background-color: rgb(73, 224, 217);
+}
+
+.btn-ed {
+  border-radius: 10px;
+  font-size: 15px;
+  padding: 10px;
+  background-color: rgb(73, 224, 217);
+  float: right;
+  margin-right: 15px;
+}
+
+.btn-de {
+  border-radius: 10px;
+  font-size: 15px;
+  padding: 10px;
+  background-color: red;
+  float: right;
+}
